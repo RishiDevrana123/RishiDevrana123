@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishidevrana123&label=Profile%20views&color=0e75b6&style=flat" alt="rishidevrana123" /> </p>
 
-- 🔭 I’m currently working on **Save & Serve**
+- 🔭 I’m currently working on **WasteLess**
 
 - 🌱 I’m currently learning **DSA and backend**
 
